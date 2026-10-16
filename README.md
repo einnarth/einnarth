@@ -19,5 +19,5 @@ I'm a Computer Science student at **VŠB-TUO (FEI)** with practical experience f
 * [**Epidemic Simulator**](https://github.com/einnarth/VSB_UPR_Project) – C program simulating the spread of an epidemic using the SIR model with custom SVG graph visualization.
 
 ### 📫 How to reach me
-* **[LinkedIn:]** (https://www.linkedin.com/in/zachari%C3%A1%C5%A1-juri%C5%A1-7a3243269/))
+* **LinkedIn:** https://www.linkedin.com/in/zachari%C3%A1%C5%A1-juri%C5%A1-7a3243269/
 * **Email:** zaso.juris@gmail.com
